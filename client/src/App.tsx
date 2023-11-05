@@ -4,7 +4,7 @@ import './App.css';
 function App() {
 	const [count, setCount] = useState(0);
 
-	return <></>;
+	return <div> This is a simple to do list</div>;
 }
 
 export default App;
